@@ -34,7 +34,7 @@
 
 ```bash
 # 下载脚本
-wget https://raw.githubusercontent.com/你的仓库/transmission.sh
+wget https://raw.githubusercontent.com/xu5343/transmission/main/transmission.sh
 
 # 添加执行权限
 chmod +x transmission.sh
